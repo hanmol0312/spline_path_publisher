@@ -28,7 +28,7 @@ ros2 run spline_generator catmull_rom_node
 
 ## 5. Path generated
 
-![path.png](image/path.png)
+![path.png](images/path.png)
 
 ## 
 
