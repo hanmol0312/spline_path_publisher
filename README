@@ -34,7 +34,7 @@ ros2 run spline_generator catmull_rom_node
 
 ## 5. The following is the spline path generated.
 
-![Catmull-Rom Path](images/path.png)
+![Catmull-Rom Path](images/path2.png)
 
 ## 6. Approach
 
