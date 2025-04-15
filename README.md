@@ -28,11 +28,11 @@ ros2 run spline_generator catmull_rom_node
 
 ## 5. Path generated
 
-![path.png](attachment:b23aee3d-37e7-491e-b546-a07f96e578ab:path.png)
+![path.png](image/path.png)
 
 ## 
 
-![path_2.png](attachment:4643c19b-8448-4c1c-8ecc-119a74c273f4:path_2.png)
+![path_2.png](images/path_2.png)
 
 ## 6. Approach
 
